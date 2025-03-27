@@ -1,6 +1,6 @@
 # efficientnet_fine_tuning
 
-## Introduction: what is EfficientNet
+## EfficientNet
 
 EfficientNet, first introduced in  [Tan and Le, 2019](https://arxiv.org/abs/1905.11946)  is among the most efficient models (i.e. requiring least FLOPS for inference) that reaches State-of-the-Art accuracy on both imagenet and common image classification transfer learning tasks.
 
